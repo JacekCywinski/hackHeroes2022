@@ -16,12 +16,13 @@ Opisz działanie Waszej aplikacji/narzędzia* (W jaki sposób działa Wasza apli
     zbiórki oraz kwota jaka została już zebrana. Następnie możemy wpisać dane założyciela zbiórki oraz kwotę pieniędzy jaką chcielibyśmy wpłacić. Wybierając zakładkę 
     "profil" ukażą nam się opcje takie jak: 1. Dodanie środków na konto, którymi następnie można wpłacać pieniądze na wybrane przez nas istniejące zbiórki. 2. 
     Utworzenie własnej zbiórki, w której możemy wybrać zbieraną przez nas kwotę pieniędzy oraz napisać dokładny opis sytuacji z jakiego powodu zbieramy te pieniądze. 
-    3. Usunięcie konta, w razie przypadku, kiedy chcielibyśmy zrezygnować z członkostwa.
+    3. Usunięcie konta, w razie przypadku, kiedy chcielibyśmy zrezygnować z członkostwa. Do programu dołączone jest kilka kont, aby móc od razu zacząć testować funkcje
+    programu (imiona i nazwiska są wybrane przypadkowo, a zbiórki są zbiórkami lub fragmentami zbiórek z Internetu).
     
 Jak widzicie dalszy rozwój Waszego rozwiązania? (W jaki sposób Wasz projekt mógłby zostać wdrożony lub rozwijany? Jacy partnerzy mogliby się zaangażować w jego rozwój?)
 
     W przyszłości chciałbym, aby ta aplikacja zyskała funkcje ogłaszania wolontariatów oraz prostych pomocy sąsiedzkich takich jak posprzątanie mieszkania, umycie auta
-    czy wyprowadzenie psa. Aplikacja zyskałaby interfejs graficzny (GUI), połączenie z internetem, aby każdy użytkownik z Polski mógł dodać swoje ogłoszenie, a 
+    czy wyprowadzenie psa. Aplikacja zyskałaby interfejs graficzny (GUI), połączenie z Internetem, aby każdy użytkownik z Polski mógł dodać swoje ogłoszenie, a 
     następnie powstałaby wersja mobilna na urządzenia z androidem oraz IOSem oraz wersja strony internetowej. W rozwój aplikacji mogliby się zaangażować graficy, 
     programiści aplikacji mobilnych oraz programiści stron internetowych.
     
